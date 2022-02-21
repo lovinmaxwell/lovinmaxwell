@@ -26,7 +26,7 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/twitter-lovin_maxwell-blue?style=flat-square&color=7A7574&labelColor=0078D7">
      </a>
 - 😄 Pronouns: He 🌈
-- 📌 Based on India :bangalore:
+- 📌 Based on India :bangalore
 - ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
 
 <div align="center">
