@@ -14,10 +14,17 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+<h1 align="center">
+<a href="https://www.linkedin.com/in/carolgv/">  </a>Hi there 👋,
+ I'm <a href="https://www.linkedin.com/in/lovin-j-maxwell/" target="_blank"> Lovin Maxwell !</a>
+</h1>
 
-- 🌱 I’m currently learning basic, ooh..., I mean, [Unity](https://unity.com/)
-- 💬 Ask me about anything. I won't know the answer anyway
+<h3 align="left">
+A Software Engineer 🚀
+</h3>
+
+- 🌱 I’m currently learning something cool 😉, ooh..., I mean, [Unity](https://unity.com/)
+- 💬 Ask me about anything. I will try answer it
 - 📫 How to reach me:
    - <a title="Twitter" href="https://twitter.com/lovin_maxwell">
        <img src="https://img.shields.io/badge/twitter-lovin_maxwell-blue?style=flat-square&color=7A7574&labelColor=0078D7">
@@ -32,3 +39,14 @@ Here are some ideas to get you started:
 <div align="center">
    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lovinmaxwell&theme=dark&layout=compact" /> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell&show_icons=true&theme=dark" />
 </div>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"  width="40" height="40"/> 
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+</a> </p>
