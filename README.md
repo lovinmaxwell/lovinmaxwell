@@ -32,8 +32,6 @@ A Software Engineer 🚀
    - <a title="LinkedIn" href="https://www.linkedin.com/in/lovin-j-maxwell/">
        <img src="https://img.shields.io/badge/linkedin-lovinmaxwell-blue?style=flat-square&color=7A7574&labelColor=272CBF">
      </a>
-- 😄 Pronouns: He 🌈
-- 📌 Based on India|Qatar
 - ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
 
 <div align="center">
