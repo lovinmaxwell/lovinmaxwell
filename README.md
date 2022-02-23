@@ -33,7 +33,7 @@ A Software Engineer 🚀
        <img src="https://img.shields.io/badge/linkedin-lovinmaxwell-blue?style=flat-square&color=7A7574&labelColor=272CBF">
      </a>
 - 😄 Pronouns: He 🌈
-- 📌 Based on India :bangalore
+- 📌 Based on India|Qatar
 - ⚡ Fun fact: I can speak 3 languages, but I'm bad at all of them
 
 <div align="center">
@@ -47,6 +47,6 @@ A Software Engineer 🚀
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" alt="figma" width="40" height="40"/> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 </a> </p>
