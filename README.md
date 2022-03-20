@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 A Software Engineer 🚀
 </h3>
 
-- 🌱 I’m currently learning something cool 😉, ooh..., I mean, [Unity](https://unity.com/)
-- 💬 Ask me about anything. I will try answer it
+- 🌱 I’m currently learning something cool 😉
+- 💬 Ask me about anything. I may try answering it
 - 📫 How to reach me:
    - <a title="Twitter" href="https://twitter.com/lovin_maxwell">
        <img src="https://img.shields.io/badge/twitter-lovin_maxwell-blue?style=flat-square&color=7A7574&labelColor=0078D7">
