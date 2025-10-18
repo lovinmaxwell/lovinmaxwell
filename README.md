@@ -68,13 +68,6 @@ I create solutions where **data flows seamlessly**, **processes become automated
 - **Cloud & DevOps:** Microsoft Azure, AWS, CI/CD, Docker, Logic Apps, Service Bus  
 - **ERP Platforms:** ERPNext, Frappe, Adempiere  
 
----
-
-### 🎓 Education
-
-**🎓 Bachelor in Electrical and Electronic Engineering**  
-*Anna University, Chennai, India (2012 – 2016)*  
-Final Grade: **7.2 CGPA**
 
 ---
 
