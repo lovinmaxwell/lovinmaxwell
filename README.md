@@ -1,71 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=050505&fontColor=00f2ff&height=200&section=header&text=LOVIN%20MAXWELL&desc=SYSTEMS_ARCHITECT&fontSize=60&descSize=20&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fcee0a&height=200&section=header&text=LOVIN%20MAXWELL&fontSize=70&fontColor=000000&desc=NIGHT%20CITY%20//%20SENIOR%20ENGINEER&descSize=20&descAlignY=70" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00f2ff?style=for-the-badge&logo=target&logoColor=black">
-  <img src="https://img.shields.io/badge/EXPERIENCE-8_YEARS-ff00ff?style=for-the-badge&logo=clock&logoColor=white">
-  <img src="https://img.shields.io/badge/LOCATION-DOHA_QATAR-7000ff?style=for-the-badge&logo=map-pin&logoColor=white">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FCEE0A&center=true&vCenter=true&width=435&lines=8%2B+YEARS+IN+THE+SPRAWL;API+INTEGRATION+SPECIALIST;CLOUD+ARCHITECT+%2F%2F+AZURE;FLUTTER+AUGMENTATION+EXPERT" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-LEVEL_MAX-fcee0a?style=for-the-badge&logo=spyder&logoColor=black">
+  <img src="https://img.shields.io/badge/EXPERIENCE-8_YRS-fcee0a?style=for-the-badge&logo=opsgenie&logoColor=black">
+  <img src="https://img.shields.io/badge/REGION-DOHA_QATAR-fcee0a?style=for-the-badge&logo=map-pin&logoColor=black">
 </p>
 
 ---
 
-### 🟢 INITIALIZING AGENT_BIO
-With **8+ years** of operational experience in the digital sprawl, I specialize in bridging the gap between legacy enterprise systems and futuristic cloud architecture. I engineer solutions where **data flows seamlessly**, processes are **automated**, and business efficiency is **overclocked**.
+### ⚡ OPERATIVE OVERVIEW
+With **8+ years of experience** in software engineering and system integration, I specialize in designing scalable enterprise applications that bridge technology gaps. I engineer solutions where **data flows seamlessly**, processes are **automated**, and business efficiency is **overclocked**.
 
 ---
 
-### 🛠️ CYBERNETIC SPECIALIZATIONS
+### 🛠️ CYBERNETIC AUGMENTATIONS
 
-#### 🛰️ SYSTEM_INTEGRATION
-* **Middleware Architect:** Designed high-performance bridges using **ASP.NET Core** to link ERP/CRM networks.
-* **SAP Overclocking:** Integrated SAP via **RFC Functions**, purging manual latency by **90%**.
-* **Data Sync:** Maintained consistent multi-system pulse with **SQL Server** and **RESTful APIs**.
+#### 🛰️ SYSTEM_INTEGRATION_CORE
+* **Middleware Design:** Built high-performance bridges using **ASP.NET Core** to link ERP and CRM networks.
+* **SAP Overclocking:** Integrated SAP via **RFC Functions**, purging manual data handling by **90%**.
+* **Sync Protocols:** Consistent cross-system synchronization with **SQL Server** and **RESTful APIs**.
 
-#### 🧠 NEURAL_AUTOMATION
-* **AI Protocols:** Leveraged **Azure Document Intelligence** for autonomous recognition.
-* **Efficiency Gain:** Reduced manual operational load by **60%** through intelligent extraction.
+#### 🧠 NEURAL_AUTOMATION & AI
+* **Smart Recognition:** Leveraged **Azure Document Intelligence** for autonomous document recognition.
+* **Workload Reduction:** Enhanced extraction processes, slashing manual workload by **60%**.
 
-#### 📱 MOBILE_INTERFACE
-* **Flutter Augmentation:** Building high-fidelity mobile experiences with **BLoC** and **GetX**.
-* **Resilience:** Focused on **offline-first** strategies and fluid, adaptive UI.
+#### 📱 MOBILE_INTERFACE (FLUTTER)
+* **High-Fidelity UI:** Crafting responsive mobile experiences with **BLoC** and **GetX**.
+* **Offline Resilience:** Focused on robust offline-first strategies and fluid UI theming.
 
 ---
 
 ### 💾 THE ARSENAL (TECH_STACK)
 
 <p align="center">
-  <code><img height="45" src="https://skillicons.dev/icons?i=dotnet,cs,dart,flutter,azure,aws,docker,sqlite" /></code>
-  <code><img height="45" src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,redis,py,ts,js,react" /></code>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,dart,flutter,azure,aws,docker,sqlite,sqlserver,postgres,mongodb,redis,py,ts,js,react&theme=dark" />
 </p>
 
-| CORE_LAYER | MODULES |
+| LAYER | PROTOCOLS |
 | :--- | :--- |
-| **Integrations** | SAP RFCs, Microsoft Graph, Power BI |
-| **Cloud Ops** | Azure Logic Apps, Service Bus, API Management |
-| **ERP Cores** | ERPNext, Frappe, PMWeb, Adempiere |
+| **Integrations** | SAP RFCs, Power BI, Microsoft Graph API |
+| **Cloud/DevOps** | Azure Virtual Machines, API Management, Logic Apps, Service Bus |
+| **ERP Systems** | ERPNext, Frappe, PMWeb, Adempiere |
 
 ---
 
-### 📡 CONNECT_PROTOCOLS
+### 📡 UPLINK_CHANNELS
 
 <p align="center">
-  <a href="mailto:lovinjmaxwell@gmail.com"><img src="https://img.shields.io/badge/EMAIL-lovinjmaxwell@gmail.com-00f2ff?style=flat-square&logo=gmail&logoColor=black"></a>
-  <a href="https://wa.me/97466968082"><img src="https://img.shields.io/badge/WHATSAPP-%2B974_66968082-25D366?style=flat-square&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lovin-j-maxwell/"><img src="https://img.shields.io/badge/LINKEDIN-LOVIN_MAXWELL-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lovinjmaxwell@gmail.com"><img src="https://img.shields.io/badge/SECURE_MAIL-lovinjmaxwell@gmail.com-fcee0a?style=flat-square&logo=gmail&logoColor=black"></a>
+  <a href="https://wa.me/97466968082"><img src="https://img.shields.io/badge/COMM_LINK-%2B974_66968082-fcee0a?style=flat-square&logo=whatsapp&logoColor=black"></a>
+  <a href="https://www.linkedin.com/in/lovin-j-maxwell/"><img src="https://img.shields.io/badge/THE_GRID-LOVIN_MAXWELL-fcee0a?style=flat-square&logo=linkedin&logoColor=black"></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lovinmaxwell&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell&show_icons=true&theme=highcontrast&hide_border=true&title_color=fcee0a&text_color=ffffff&icon_color=fcee0a" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lovinmaxwell&theme=highcontrast&hide_border=true&stroke=fcee0a&ring=fcee0a&fire=fcee0a" width="48%"/>
 </p>
 
 <p align="center">
-  <i>"Engineering seamless experiences, one integration at a time."</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=fcee0a&height=20&section=footer" width="100%"/>
 </p>
