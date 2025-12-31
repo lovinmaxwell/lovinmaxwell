@@ -13,7 +13,7 @@ With **8+ years of experience** in the digital sprawl, I specialize in designing
 ### 💾 THE ARSENAL (TECH_STACK)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,dart,flutter,azure,aws,docker,sqlite,sqlserver,postgres,mongodb,redis,py,ts,js,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,dart,flutter,azure,aws,docker,sqlite,postgres,mongodb,redis,py,ts,js,react&theme=dark" />
 </p>
 
 | LAYER | PROTOCOLS |
