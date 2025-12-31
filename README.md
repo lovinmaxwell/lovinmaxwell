@@ -10,8 +10,6 @@
 ### ⚡ OPERATIVE_BIO
 With **8+ years of experience** in the digital sprawl, I specialize in designing and developing scalable enterprise applications that bridge technology gaps. I engineer solutions where **data flows seamlessly**, processes are **automated**, and business efficiency is **overclocked**.
 
----
-
 ### 🛠️ CYBERNETIC AUGMENTATIONS (STRENGTHS)
 
 * **🛰️ System Integration Core:**
@@ -56,7 +54,7 @@ With **8+ years of experience** in the digital sprawl, I specialize in designing
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lovinmaxwell&show_icons=true&theme=highcontrast&hide_border=true&title_color=fcee0a&text_color=ffffff&icon_color=fcee0a" width="48%"/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=lovinmaxwell&theme=highcontrast&hide_border=true&stroke=fcee0a&ring=fcee0a&fire=fcee0a" width="48%"/>
 </p>
 
