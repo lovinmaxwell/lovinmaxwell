@@ -10,23 +10,6 @@
 ### ⚡ OPERATIVE_BIO
 With **8+ years of experience** in the digital sprawl, I specialize in designing and developing scalable enterprise applications that bridge technology gaps. I engineer solutions where **data flows seamlessly**, processes are **automated**, and business efficiency is **overclocked**.
 
-### 🛠️ CYBERNETIC AUGMENTATIONS (STRENGTHS)
-
-* **🛰️ System Integration Core:**
-    * Designed high-performance middleware using **ASP.NET Core** to link ERP and CRM networks.
-    * Integrated SAP via **RFC Functions**, purging manual data handling by **90%**.
-    * Maintained consistent cross-system synchronization with **SQL Server** and **RESTful APIs**.
-
-* **🧠 Neural Automation:**
-    * Leveraged **Azure Document Intelligence** and **AI Services** for smart document recognition.
-    * Enhanced extraction processes, reducing manual workload by **60%**.
-
-* **📱 Mobile Interface Mastery:**
-    * Crafting responsive mobile experiences via **Flutter** with **BLoC** and **GetX**.
-    * Focused on smooth user interactions and robust offline-first strategies.
-
----
-
 ### 💾 THE ARSENAL (TECH_STACK)
 
 <p align="center">
